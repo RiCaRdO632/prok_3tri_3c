@@ -1,1 +1,1 @@
-# prok_3tri_3c
+# proj_3tri_3c
